@@ -1,5 +1,5 @@
 > **Локальный мануал CySEC study notes** (выгрузка с exampasscy.com, 14.11.2026; только учебные заметки, без продуктовых страниц).
-> С чего начать: **[INDEX.md — полное оглавление всех 163 тем](INDEX.md)** · [Advanced](advanced.md) · [Basic](basic.md) · [AML](aml.md) · [Как пишутся заметки](about.md)
+> С чего начать: **[contents.md — полное оглавление всех 163 тем](contents.md)** · [Advanced](advanced.md) · [Basic](basic.md) · [AML](aml.md) · [Как пишутся заметки](about.md)
 >
 > Структура: `<глава>/README.md` — обзор главы (темы, «The numbers to know»); `<глава>/<тема>.md` — заметка. Все внутренние ссылки и якоря (`#key-facts`, `#common-mistakes` и т.д.) работают локально; ссылки на законы (CyLaw, EUR-Lex) и прочие страницы сайта — внешние.
 

@@ -101,5 +101,5 @@ if rest:
         emit("Subject", s, s)
 lines += ["## CySEC Basic", "",
           "Basic использует те же заметки, в другом порядке глав — соответствие см. в [basic.md](basic.md).", ""]
-write("INDEX.md", "\n".join(lines))
+write("contents.md", "\n".join(lines))
 print("subjects", len(seen), "topics", total)
